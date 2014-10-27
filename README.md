@@ -1,7 +1,7 @@
 gotmpl
 ======
 
-gotmpl is asmall utility to execute go templates on the command line via files, aguments or stdin
+gotmpl is asmall utility to execute go templates with json data on the command line via files, aguments or stdin
   
     go get github.com/advincze/gotmpl
 
